@@ -24,8 +24,8 @@ export default {
           to: { name: 'coin-detail', params: { id: 'ethereum' } },
         },
         {
-          title: 'USDT',
-          to: { name: 'coin-detail', params: { id: 'tether' } },
+          title: 'BNB',
+          to: { name: 'coin-detail', params: { id: 'binance-coin' } },
         },
       ],
     }
